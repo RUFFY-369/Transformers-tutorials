@@ -12,7 +12,7 @@ For an overview of the ecosystem of HuggingFace for computer vision (June 2022),
 
 Currently, it contains the following demos:
 * Transformers are Sample-Efficient World Models (IRIS) ([paper]([https://arxiv.org/abs/2104.01778](https://arxiv.org/abs/2209.00588))): 
-  - train `IrisModel` on Atari environment(s) to play breakout or any environment id provided. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - train `IrisModel` on Atari environment(s) to play breakout or any environment id provided. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RUFFY-369/Transformers-tutorials/blob/main/IRIS/train_Iris_agent_on_atari.ipynb)
 
 ## Training frameworks
 Regarding fine-tuning Transformer models (or more generally, PyTorch models), there are a few options:
